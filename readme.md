@@ -1,6 +1,6 @@
 # Hi!
 
-![screenshot](https://raw.github.com/jlord/sheetsee-tool-lending/gh-pages/lending-ss.png)
+![screenshot](https://github.com/VCUBrandcenter/lending-library/blob/gh-pages/lending-ss.png)
 
 ### An Inventory Control System the VCU Brandcenter Lab
 
